@@ -1,4 +1,5 @@
-# Playground Series S4E12 - Predicting Insurance
+# Regression with an Insurance Dataset
+
 
 ## Overview
 This project is a submission for the [Playground Series - Season 4, Episode 12](https://www.kaggle.com/competitions/playground-series-s4e12) Kaggle competition. The goal of the competition is to predict insurance outcomes based on the provided dataset, which contains anonymized features and target variables.
